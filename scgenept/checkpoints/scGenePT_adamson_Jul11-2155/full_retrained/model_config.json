@@ -1,0 +1,17 @@
+{
+  "model_type": "scgenept_bioall_gpt_concat",
+  "canonical_model_type": "scgenept_ncbi+uniprot_gpt_go_all_gpt_concat",
+  "init_from": "validation_selected_best_model.pt",
+  "source_best_model": "save_scgenept/scGenePT_adamson_Jul11-2155/best_model.pt",
+  "n_genes_or_tokens": 2467,
+  "n_biological_genes": 2465,
+  "dummy_timepoint_tokens": [
+    "IR_24h",
+    "IR_1week"
+  ],
+  "mvm_probability": 0.2,
+  "de_loss_weight": 5.0,
+  "mean_response_loss_weight": 1.0,
+  "full_retrain_epochs": 5,
+  "full_retrain_lr": 5e-05
+}

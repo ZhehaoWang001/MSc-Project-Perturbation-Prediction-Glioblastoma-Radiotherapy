@@ -1,0 +1,7 @@
+name: scgenept_env
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - scikit-misc
+  - h5py

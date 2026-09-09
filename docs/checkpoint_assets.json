@@ -1,0 +1,20 @@
+[
+  {
+    "asset": "scgpt_best_model.pt",
+    "destination": "scgpt/checkpoints/dev_perturb_adamson-Jun28-15-05/best_model.pt",
+    "bytes": 207509431,
+    "sha256": "cd0f80dc3b610c292bdba736ecde9d0e4fedab83e4eabb1c7b14911ac545327c"
+  },
+  {
+    "asset": "scgenept_best_model.pt",
+    "destination": "scgenept/checkpoints/scGenePT_adamson_Jul11-2155/best_model.pt",
+    "bytes": 1703457204,
+    "sha256": "f1c10d94bca4d0f572fb7d23e356eee056800fe2581badb2a98aeeea2ff4c20a"
+  },
+  {
+    "asset": "scgenept_full_retrained.pt",
+    "destination": "scgenept/checkpoints/scGenePT_adamson_Jul11-2155/full_retrained/final_model_full_finetuned.pt",
+    "bytes": 1703457876,
+    "sha256": "3c0e13ff0f858f92648da3d77ce57b6f32b49295e8c85ea494917ea94f8cd63d"
+  }
+]

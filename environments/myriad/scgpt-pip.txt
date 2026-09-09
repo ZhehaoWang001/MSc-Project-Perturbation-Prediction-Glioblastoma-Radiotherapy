@@ -1,0 +1,1 @@
+pip 25.3 from /myriadfs/home/rmapzwa/Scratch/scgpt_tutorial_folder/scgpt_venv/lib/python3.9/site-packages/pip (python 3.9)
