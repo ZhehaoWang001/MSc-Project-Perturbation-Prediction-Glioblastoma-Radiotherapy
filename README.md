@@ -17,8 +17,6 @@ Supporting files are in [environments](environments/) (the compact Myriad
 environment guide and exact package records) and [docs](docs/) (setup,
 checkpoint downloads and provenance).
 
-No-MVM and ECS scGPT variants are outside this repository's selected scope.
-
 ## Getting started
 
 1. Read [setup instructions](docs/SETUP.md).
