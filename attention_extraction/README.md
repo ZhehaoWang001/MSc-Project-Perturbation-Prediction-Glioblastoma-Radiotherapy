@@ -95,5 +95,5 @@ No checkpoint/data paths are invented by the shared job; provide them explicitly
 
 To preview a command locally, add `--dry-run` to either Python example. A dry
 run prints a shell-quoted command and does not check model compatibility or load
-the input data. Existing attention results are historical outputs; packaging
-and dispatch checks do not establish their numerical or biological validity.
+the input data. This folder provides extraction code and the submission job;
+attention outputs are generated in the output directory supplied for each run.

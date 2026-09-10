@@ -1,8 +1,8 @@
 # MSc Project Perturbation Prediction Glioblastoma Radiotherapy
 
 Research code for predicting radiotherapy-associated transcriptional responses
-in glioblastoma using **scGPT** and **scGenePT**, with embedding-based pathway
-analysis, attention extraction, and classical-model evaluation.
+in glioblastoma. The repository contains four workflows: **scGPT training**,
+**scGenePT training**, **attention extraction** and **embedding analysis**.
 
 ## Project structure
 
@@ -10,12 +10,12 @@ analysis, attention extraction, and classical-model evaluation.
 |---|---|
 | [scgpt](scgpt/) | scGPT training code, Myriad job, requirements and June 28 checkpoint metadata |
 | [scgenept](scgenept/) | scGenePT training, configurable gene-language embeddings, Myriad job and July 11 checkpoint metadata |
-| [embedding_analysis](embedding_analysis/) | Full embedding workflow, pathway enrichment, Reactome-only analysis and saved outputs |
 | [attention_extraction](attention_extraction/) | One launcher for scGPT/scGenePT attention extraction and a Myriad submission script |
-| [evaluation](evaluation/) | Model evaluation, classical baselines, figures and aggregate result tables |
-| [preprocessing](preprocessing/) | Data-formatting notebooks and gene-name repair code |
-| [environments](environments/) | Compact environment guide, exact package lists and captured Myriad diagnostics |
-| [docs](docs/) | Setup, model selection, checkpoint assets and provenance |
+| [embedding_analysis](embedding_analysis/) | scGPT checkpoint embedding analysis, gene programs, pathway enrichment, Reactome-only analysis and saved outputs |
+
+Supporting files are in [environments](environments/) (the compact Myriad
+environment guide and exact package records) and [docs](docs/) (setup,
+checkpoint downloads and provenance).
 
 No-MVM and ECS scGPT variants are outside this repository's selected scope.
 

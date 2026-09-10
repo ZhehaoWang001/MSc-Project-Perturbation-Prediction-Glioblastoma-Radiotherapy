@@ -34,7 +34,7 @@ S3 locations, including `s3://czi-scgenept-public/models/pretrained/scgpt` and
 
 ## Local inputs and paths
 
-Training/evaluation and attention workflows use the original working-directory
+Training and attention workflows use the original working-directory
 layout. Set paths explicitly; do not run unchanged path defaults on a different
 machine. The scGenePT training source must be copied into the upstream repository
 root before the current job or BioAll attention helper imports it.
@@ -45,4 +45,6 @@ The full embedding script/notebook uses `LouvainAnalysisConfig` and top-level
 `vocab.json`, and `h.all.v2026.1.Hs.symbols.gmt` plus
 `c2.cp.reactome.v2026.1.Hs.symbols.gmt`. The mapping/GMT files are obtained separately.
 The Reactome-only notebook additionally needs the main embedding analysis outputs.
-Evaluation notebooks require private split/prediction files for full reruns.
+The scGenePT attention workflow additionally requires private expression splits
+and their matching metadata; see the [attention guide](../attention_extraction/README.md).
+Supply the authorized input files expected by each script before running it.
