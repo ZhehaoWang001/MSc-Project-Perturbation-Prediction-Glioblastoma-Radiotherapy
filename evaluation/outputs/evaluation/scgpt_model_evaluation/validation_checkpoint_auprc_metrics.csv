@@ -1,4 +1,0 @@
-,condition,AUPRC,n_observed_DEGs,metric_source,score_definition,label_definition,epoch
-0,IR-24h,0.9506774446969471,2099.0,/Users/zhehaowang/PycharmProjects/scgpt_test/dev_perturb_adamson-Jun28-15-05/val_results.npz,absolute predicted delta versus training-control mean,"val-set Welch t-test versus control, p < 0.05",60
-1,IR-1week,0.9544511987103077,2065.0,/Users/zhehaowang/PycharmProjects/scgpt_test/dev_perturb_adamson-Jun28-15-05/val_results.npz,absolute predicted delta versus training-control mean,"val-set Welch t-test versus control, p < 0.05",60
-2,average,0.9525643217036275,2082.0,/Users/zhehaowang/PycharmProjects/scgpt_test/dev_perturb_adamson-Jun28-15-05/val_results.npz,absolute predicted delta versus training-control mean,"val-set Welch t-test versus control, p < 0.05",60

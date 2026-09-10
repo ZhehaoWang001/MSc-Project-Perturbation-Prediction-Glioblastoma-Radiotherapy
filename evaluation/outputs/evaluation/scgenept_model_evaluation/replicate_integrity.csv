@@ -1,7 +1,0 @@
-check,value
-truth identical within every replicate group,True
-condition identical within every replicate group,True
-collapsed truth matches test_expression exactly,True
-restored metadata condition matches result condition,True
-collapsed treated test cells,641
-restored unique metadata rows,641

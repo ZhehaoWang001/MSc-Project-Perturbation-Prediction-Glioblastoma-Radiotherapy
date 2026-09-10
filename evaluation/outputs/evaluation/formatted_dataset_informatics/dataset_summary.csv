@@ -1,8 +1,0 @@
-,metric,value
-0,cells,19037
-1,genes,2467
-2,samples,12
-3,batches,4
-4,broad_malignant_states,4
-5,detailed_malignant_states,9
-6,read_source,scanpy
