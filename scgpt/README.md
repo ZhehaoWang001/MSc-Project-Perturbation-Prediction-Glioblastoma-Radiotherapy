@@ -2,8 +2,7 @@
 
 The selected implementation is `Tutorial_Perturbation_Prediction_v12_revised.py`,
 with `submit_myriad.sh` and a `requirements.txt` pointing to the
-[shared environment record](../environments/README.md). No ECS/no-MVM variants
-are included. The source and job match their inspected Myriad counterparts.
+[shared environment record](../environments/README.md). 
 
 Stage both files in your Myriad working directory. The job expects the virtual
 environment at `~/Scratch/scgpt_tutorial_folder/scgpt_venv`, private data under the
