@@ -1,7 +1,0 @@
-scib 1.1.4 requires deprecated, which is not installed.
-scib 1.1.4 requires pydot, which is not installed.
-chex 0.1.90 has requirement numpy>=1.24.1, but you have numpy 1.22.4.
-pyro-ppl 1.9.1 has requirement torch>=2.0, but you have torch 1.13.0.
-scib 1.1.4 has requirement igraph>=0.10, but you have igraph 0.9.11.
-scib 1.1.4 has requirement pandas<2, but you have pandas 2.3.3.
-torchmetrics 1.8.2 has requirement torch>=2.0.0, but you have torch 1.13.0.

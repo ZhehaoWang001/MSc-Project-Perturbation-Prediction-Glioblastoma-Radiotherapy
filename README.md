@@ -14,7 +14,7 @@ analysis, attention extraction, and classical-model evaluation.
 | [attention_extraction](attention_extraction/) | One launcher for scGPT/scGenePT attention extraction and a Myriad submission script |
 | [evaluation](evaluation/) | Model evaluation, classical baselines, figures and aggregate result tables |
 | [preprocessing](preprocessing/) | Data-formatting notebooks and gene-name repair code |
-| [environments](environments/) | Captured Myriad package versions and environment diagnostics |
+| [environments](environments/) | Compact environment guide, exact package lists and captured Myriad diagnostics |
 | [docs](docs/) | Setup, model selection, checkpoint assets and provenance |
 
 No-MVM and ECS scGPT variants are outside this repository's selected scope.

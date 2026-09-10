@@ -2,11 +2,15 @@
 
 ## Dependencies
 
-Use separate scGPT and scGenePT environments. Their captured requirements are
-under `environments/myriad/` and beside each model's training script. The 164
-scGPT and 166 scGenePT pinned packages match the inspected Myriad installations.
-The archived scGPT pip-check contains dependency conflicts; the archived scGenePT
-check reports none. These are environment records, not tested clean-install locks.
+Start with the [environment overview](../environments/README.md) for a side-by-side
+version comparison, Myriad module settings and captured dependency checks.
+Use separate scGPT and scGenePT environments. Their exact package lists contain
+[164 scGPT pins](../environments/requirements-scgpt.txt) and
+[166 scGenePT pins](../environments/requirements-scgenept.txt), matching the
+inspected Myriad installations. Each model's `requirements.txt` points to its
+shared list. The overview also retains packaging-tool versions and explains
+the separate scGenePT Conda record. These are environment records, not tested
+clean-install locks; the recorded scGPT dependency conflicts remain documented.
 
 Obtain official source separately:
 

@@ -5,6 +5,9 @@ Myriad job preserves its existing settings. Copy the training source into the
 root of a clone of [czi-ai/scGenePT](https://github.com/czi-ai/scGenePT), because
 it imports `models.scGenePT` and `utils.data_loading` from that repository.
 
+See the [environment overview](../environments/README.md) for the recorded
+Python/package versions; `requirements.txt` points to the shared scGenePT list.
+
 Select the gene-language representation using `--model_type`:
 
 | Option | Representation | Model-zoo checkpoint filename |

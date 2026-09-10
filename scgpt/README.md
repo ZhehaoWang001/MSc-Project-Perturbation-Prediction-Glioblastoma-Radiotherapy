@@ -1,7 +1,8 @@
 # scGPT training
 
 The selected implementation is `Tutorial_Perturbation_Prediction_v12_revised.py`,
-with `submit_myriad.sh` and captured `requirements.txt`. No ECS/no-MVM variants
+with `submit_myriad.sh` and a `requirements.txt` pointing to the
+[shared environment record](../environments/README.md). No ECS/no-MVM variants
 are included. The source and job match their inspected Myriad counterparts.
 
 Stage both files in your Myriad working directory. The job expects the virtual
