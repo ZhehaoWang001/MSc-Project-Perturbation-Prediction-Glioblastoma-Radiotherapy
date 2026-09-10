@@ -61,5 +61,4 @@ See [provenance](docs/PROVENANCE.md) for checkpoint and software-version context
 
 This work uses [scGPT](https://github.com/bowang-lab/scGPT) and
 [scGenePT](https://github.com/czi-ai/scGenePT). Obtain upstream code and assets
-from their official projects and retain their license notices. A separate license
-for this project's contributions has not been assigned.
+from their official projects and retain their license notices. 
