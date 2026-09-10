@@ -55,8 +55,14 @@ Training and model-specific analysis implementations are preserved from the
 selected source files. The common attention launcher only selects an implementation.
 See [provenance](docs/PROVENANCE.md) for checkpoint and software-version context.
 
-## Credits
+## Credits and upstream dependencies
 
-This work uses [scGPT](https://github.com/bowang-lab/scGPT) and
-[scGenePT](https://github.com/czi-ai/scGenePT). Obtain upstream code and assets
-from their official projects and retain their license notices. 
+This repository contains project-specific training and analysis scripts that use
+the official [scGPT](https://github.com/bowang-lab/scGPT) and
+[scGenePT](https://github.com/czi-ai/scGenePT) projects. Clone those repositories
+separately and follow their installation instructions.
+
+The upstream scGPT and scGenePT software is MIT-licensed. Preserve the relevant
+copyright and license notices when redistributing upstream code. Model weights,
+gene embeddings and datasets may have additional terms specified by their
+providers. This notice does not license the original code in this repository.
