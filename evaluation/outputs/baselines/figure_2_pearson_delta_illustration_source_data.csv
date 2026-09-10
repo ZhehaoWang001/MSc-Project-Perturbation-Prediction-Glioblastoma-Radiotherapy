@@ -1,0 +1,12 @@
+Study,Dataset / setting,Model,Model class,Pearson Delta numeric
+This Glioblastoma Radiotherapy Project,"Glioblastoma, ctrl vs IR-24h / IR-1week",scGPT,scGPT,0.944
+This Glioblastoma Radiotherapy Project,Same,Seen-condition mean,Mean baseline,0.975
+This Glioblastoma Radiotherapy Project,Same,Bilinear Ridge delta,Classical / linear,0.946
+This Glioblastoma Radiotherapy Project,Same,Pseudobulk RF-PCA,Classical / nonlinear,0.965
+"Ahlmann-Eltze et al., 2025","Adamson, Replogle K562/RPE1; unseen single-gene perturbations",scGPT,scGPT,0.486
+"Ahlmann-Eltze et al., 2025",Same,Mean baseline,Mean baseline,0.575
+"Ahlmann-Eltze et al., 2025",Same,Self-trained linear/PCA model,Classical / linear,0.586
+"Csendes et al., 2025","Adamson, Norman, Replogle K562/RPE1; CRISPR Perturb-seq",scGPT,scGPT,0.529
+"Csendes et al., 2025",Same,Train mean,Mean baseline,0.567
+"Csendes et al., 2025",Same,RF-GO,Classical / linear,0.613
+"Csendes et al., 2025",Same,RF-scGPT embeddings,Embedding baseline,0.591

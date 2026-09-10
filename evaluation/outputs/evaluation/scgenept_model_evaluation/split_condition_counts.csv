@@ -1,0 +1,4 @@
+split,ctrl,IR_24h,IR_1week
+train,10107,3628,1494
+val,1264,453,187
+test,1263,455,186

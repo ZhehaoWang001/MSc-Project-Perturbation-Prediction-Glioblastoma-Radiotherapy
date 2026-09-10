@@ -1,0 +1,8 @@
+asset,shape,dtype
+train_expression,"(15229, 2467)",float32
+val_expression,"(1904, 2467)",float32
+test_expression,"(1904, 2467)",float32
+test_results/pred,"(3205, 2467)",float32
+test_results/truth,"(3205, 2467)",float32
+test_results/pert_cat,"(3205,)",<U8
+biological_gene_axis,"(2465,)",<U10

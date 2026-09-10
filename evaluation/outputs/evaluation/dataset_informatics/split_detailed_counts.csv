@@ -1,0 +1,4 @@
+split_file,AC-like,AC-like Prolif,MES-like hypoxia independent,MES-like hypoxia/MHC,NPC-like OPC,NPC-like Prolif,NPC-like neural,OPC-like,OPC-like Prolif
+train,3037,5,490,662,3793,353,2868,3711,310
+val,336,2,54,82,494,45,375,469,47
+test,411,0,59,89,452,41,354,469,29

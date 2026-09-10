@@ -1,0 +1,112 @@
+,signature,category,definition,rank,gene,n_requested,n_retained
+0,DNA damage / p53,RT-response pathway,curated directional marker panel,1,BTG2,24,4
+1,DNA damage / p53,RT-response pathway,curated directional marker panel,2,GADD45A,24,4
+2,DNA damage / p53,RT-response pathway,curated directional marker panel,3,GDF15,24,4
+3,DNA damage / p53,RT-response pathway,curated directional marker panel,4,PLK2,24,4
+4,Cell-cycle arrest,RT-response pathway,curated directional marker panel,1,BTG1,19,7
+5,Cell-cycle arrest,RT-response pathway,curated directional marker panel,2,BTG2,19,7
+6,Cell-cycle arrest,RT-response pathway,curated directional marker panel,3,GADD45A,19,7
+7,Cell-cycle arrest,RT-response pathway,curated directional marker panel,4,GADD45B,19,7
+8,Cell-cycle arrest,RT-response pathway,curated directional marker panel,5,GADD45G,19,7
+9,Cell-cycle arrest,RT-response pathway,curated directional marker panel,6,GAS1,19,7
+10,Cell-cycle arrest,RT-response pathway,curated directional marker panel,7,TXNIP,19,7
+11,Apoptosis,RT-response pathway,curated directional marker panel,1,BCL2L11,30,9
+12,Apoptosis,RT-response pathway,curated directional marker panel,2,CASP8,30,9
+13,Apoptosis,RT-response pathway,curated directional marker panel,3,DDIT3,30,9
+14,Apoptosis,RT-response pathway,curated directional marker panel,4,FAS,30,9
+15,Apoptosis,RT-response pathway,curated directional marker panel,5,GADD45B,30,9
+16,Apoptosis,RT-response pathway,curated directional marker panel,6,IER3,30,9
+17,Apoptosis,RT-response pathway,curated directional marker panel,7,JUN,30,9
+18,Apoptosis,RT-response pathway,curated directional marker panel,8,RHOB,30,9
+19,Apoptosis,RT-response pathway,curated directional marker panel,9,SAT1,30,9
+20,Interferon / inflammation,RT-response pathway,curated directional marker panel,1,CXCL9,43,21
+21,Interferon / inflammation,RT-response pathway,curated directional marker panel,2,CXCL10,43,21
+22,Interferon / inflammation,RT-response pathway,curated directional marker panel,3,GBP2,43,21
+23,Interferon / inflammation,RT-response pathway,curated directional marker panel,4,GBP4,43,21
+24,Interferon / inflammation,RT-response pathway,curated directional marker panel,5,GBP5,43,21
+25,Interferon / inflammation,RT-response pathway,curated directional marker panel,6,IFIH1,43,21
+26,Interferon / inflammation,RT-response pathway,curated directional marker panel,7,IFIT2,43,21
+27,Interferon / inflammation,RT-response pathway,curated directional marker panel,8,IFIT3,43,21
+28,Interferon / inflammation,RT-response pathway,curated directional marker panel,9,IRF1,43,21
+29,Interferon / inflammation,RT-response pathway,curated directional marker panel,10,ISG15,43,21
+30,Interferon / inflammation,RT-response pathway,curated directional marker panel,11,NFKBIA,43,21
+31,Interferon / inflammation,RT-response pathway,curated directional marker panel,12,OAS1,43,21
+32,Interferon / inflammation,RT-response pathway,curated directional marker panel,13,OAS2,43,21
+33,Interferon / inflammation,RT-response pathway,curated directional marker panel,14,OAS3,43,21
+34,Interferon / inflammation,RT-response pathway,curated directional marker panel,15,OASL,43,21
+35,Interferon / inflammation,RT-response pathway,curated directional marker panel,16,PARP9,43,21
+36,Interferon / inflammation,RT-response pathway,curated directional marker panel,17,PARP14,43,21
+37,Interferon / inflammation,RT-response pathway,curated directional marker panel,18,RSAD2,43,21
+38,Interferon / inflammation,RT-response pathway,curated directional marker panel,19,SAMD9L,43,21
+39,Interferon / inflammation,RT-response pathway,curated directional marker panel,20,STAT2,43,21
+40,Interferon / inflammation,RT-response pathway,curated directional marker panel,21,TNFAIP3,43,21
+41,Oxidative stress,RT-response pathway,curated directional marker panel,1,FTH1,27,6
+42,Oxidative stress,RT-response pathway,curated directional marker panel,2,HMOX1,27,6
+43,Oxidative stress,RT-response pathway,curated directional marker panel,3,MGST1,27,6
+44,Oxidative stress,RT-response pathway,curated directional marker panel,4,PRDX6,27,6
+45,Oxidative stress,RT-response pathway,curated directional marker panel,5,SLC7A11,27,6
+46,Oxidative stress,RT-response pathway,curated directional marker panel,6,SRXN1,27,6
+47,Hypoxia,RT-response pathway,curated directional marker panel,1,ALDOC,33,7
+48,Hypoxia,RT-response pathway,curated directional marker panel,2,BHLHE40,33,7
+49,Hypoxia,RT-response pathway,curated directional marker panel,3,EGLN3,33,7
+50,Hypoxia,RT-response pathway,curated directional marker panel,4,HK2,33,7
+51,Hypoxia,RT-response pathway,curated directional marker panel,5,NDRG1,33,7
+52,Hypoxia,RT-response pathway,curated directional marker panel,6,PDK3,33,7
+53,Hypoxia,RT-response pathway,curated directional marker panel,7,VEGFA,33,7
+54,Senescence / SASP,RT-response pathway,curated directional marker panel,1,FN1,30,8
+55,Senescence / SASP,RT-response pathway,curated directional marker panel,2,GDF15,30,8
+56,Senescence / SASP,RT-response pathway,curated directional marker panel,3,ICAM1,30,8
+57,Senescence / SASP,RT-response pathway,curated directional marker panel,4,IGFBP3,30,8
+58,Senescence / SASP,RT-response pathway,curated directional marker panel,5,IGFBP7,30,8
+59,Senescence / SASP,RT-response pathway,curated directional marker panel,6,IL7,30,8
+60,Senescence / SASP,RT-response pathway,curated directional marker panel,7,SERPINE1,30,8
+61,Senescence / SASP,RT-response pathway,curated directional marker panel,8,THBS1,30,8
+62,AC-like programme,GBM state programme,Neftel-informed representative marker panel,1,GFAP,18,16
+63,AC-like programme,GBM state programme,Neftel-informed representative marker panel,2,HOPX,18,16
+64,AC-like programme,GBM state programme,Neftel-informed representative marker panel,3,SLC1A3,18,16
+65,AC-like programme,GBM state programme,Neftel-informed representative marker panel,4,MLC1,18,16
+66,AC-like programme,GBM state programme,Neftel-informed representative marker panel,5,AQP4,18,16
+67,AC-like programme,GBM state programme,Neftel-informed representative marker panel,6,SLC1A2,18,16
+68,AC-like programme,GBM state programme,Neftel-informed representative marker panel,7,ALDOC,18,16
+69,AC-like programme,GBM state programme,Neftel-informed representative marker panel,8,APOE,18,16
+70,AC-like programme,GBM state programme,Neftel-informed representative marker panel,9,CLU,18,16
+71,AC-like programme,GBM state programme,Neftel-informed representative marker panel,10,FABP7,18,16
+72,AC-like programme,GBM state programme,Neftel-informed representative marker panel,11,GLUL,18,16
+73,AC-like programme,GBM state programme,Neftel-informed representative marker panel,12,SPARCL1,18,16
+74,AC-like programme,GBM state programme,Neftel-informed representative marker panel,13,TNC,18,16
+75,AC-like programme,GBM state programme,Neftel-informed representative marker panel,14,GJA1,18,16
+76,AC-like programme,GBM state programme,Neftel-informed representative marker panel,15,ALDH1L1,18,16
+77,AC-like programme,GBM state programme,Neftel-informed representative marker panel,16,SLC4A4,18,16
+78,MES-like programme,GBM state programme,Neftel-informed representative marker panel,1,ANXA2,22,12
+79,MES-like programme,GBM state programme,Neftel-informed representative marker panel,2,CD44,22,12
+80,MES-like programme,GBM state programme,Neftel-informed representative marker panel,3,DDIT3,22,12
+81,MES-like programme,GBM state programme,Neftel-informed representative marker panel,4,SERPINE1,22,12
+82,MES-like programme,GBM state programme,Neftel-informed representative marker panel,5,TGFBI,22,12
+83,MES-like programme,GBM state programme,Neftel-informed representative marker panel,6,LGALS3,22,12
+84,MES-like programme,GBM state programme,Neftel-informed representative marker panel,7,RELB,22,12
+85,MES-like programme,GBM state programme,Neftel-informed representative marker panel,8,TNFAIP3,22,12
+86,MES-like programme,GBM state programme,Neftel-informed representative marker panel,9,NFKBIA,22,12
+87,MES-like programme,GBM state programme,Neftel-informed representative marker panel,10,VEGFA,22,12
+88,MES-like programme,GBM state programme,Neftel-informed representative marker panel,11,IL1R1,22,12
+89,MES-like programme,GBM state programme,Neftel-informed representative marker panel,12,GBP5,22,12
+90,NPC-like programme,GBM state programme,Neftel-informed representative marker panel,1,DCX,18,10
+91,NPC-like programme,GBM state programme,Neftel-informed representative marker panel,2,DLL3,18,10
+92,NPC-like programme,GBM state programme,Neftel-informed representative marker panel,3,SOX11,18,10
+93,NPC-like programme,GBM state programme,Neftel-informed representative marker panel,4,RND3,18,10
+94,NPC-like programme,GBM state programme,Neftel-informed representative marker panel,5,STMN2,18,10
+95,NPC-like programme,GBM state programme,Neftel-informed representative marker panel,6,HES6,18,10
+96,NPC-like programme,GBM state programme,Neftel-informed representative marker panel,7,TUBB3,18,10
+97,NPC-like programme,GBM state programme,Neftel-informed representative marker panel,8,TNR,18,10
+98,NPC-like programme,GBM state programme,Neftel-informed representative marker panel,9,CNTN1,18,10
+99,NPC-like programme,GBM state programme,Neftel-informed representative marker panel,10,MYT1,18,10
+100,OPC-like programme,GBM state programme,Neftel-informed representative marker panel,1,PLP1,19,11
+101,OPC-like programme,GBM state programme,Neftel-informed representative marker panel,2,ALCAM,19,11
+102,OPC-like programme,GBM state programme,Neftel-informed representative marker panel,3,PDGFRA,19,11
+103,OPC-like programme,GBM state programme,Neftel-informed representative marker panel,4,NKX2-2,19,11
+104,OPC-like programme,GBM state programme,Neftel-informed representative marker panel,5,APOD,19,11
+105,OPC-like programme,GBM state programme,Neftel-informed representative marker panel,6,GPR17,19,11
+106,OPC-like programme,GBM state programme,Neftel-informed representative marker panel,7,TNR,19,11
+107,OPC-like programme,GBM state programme,Neftel-informed representative marker panel,8,FGF14,19,11
+108,OPC-like programme,GBM state programme,Neftel-informed representative marker panel,9,HES5,19,11
+109,OPC-like programme,GBM state programme,Neftel-informed representative marker panel,10,FABP7,19,11
+110,OPC-like programme,GBM state programme,Neftel-informed representative marker panel,11,OLFM2,19,11

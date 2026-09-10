@@ -1,0 +1,31 @@
+study,dataset,model_group,model,pearson,pearson_delta,pearson_delta_de,l2,source_detail
+Ahlmann-Eltze 2025,Adamson,scGPT,scGPT,0.98065,0.568668,,5.053416,Source Data Fig. 2 Panel A; mean over test perturbations
+Ahlmann-Eltze 2025,Adamson,Simple mean,mean,0.986262,0.687619,,4.081029,Source Data Fig. 2 Panel A; mean over test perturbations
+Ahlmann-Eltze 2025,Adamson,Linear/classical,linear perturbation model,0.984903,0.67579,,4.285925,Source Data Fig. 2 Panel A; mean over test perturbations
+Ahlmann-Eltze 2025,Replogle K562,scGPT,scGPT,0.983802,0.31671,,4.335095,Source Data Fig. 2 Panel A; mean over test perturbations
+Ahlmann-Eltze 2025,Replogle K562,Simple mean,mean,0.984648,0.403887,,4.118693,Source Data Fig. 2 Panel A; mean over test perturbations
+Ahlmann-Eltze 2025,Replogle K562,Linear/classical,linear perturbation model,0.985862,0.432395,,3.996537,Source Data Fig. 2 Panel A; mean over test perturbations
+Ahlmann-Eltze 2025,Replogle RPE1,scGPT,scGPT,0.969416,0.585005,,6.052112,Source Data Fig. 2 Panel A; mean over test perturbations
+Ahlmann-Eltze 2025,Replogle RPE1,Simple mean,mean,0.973236,0.671878,,5.60962,Source Data Fig. 2 Panel A; mean over test perturbations
+Ahlmann-Eltze 2025,Replogle RPE1,Linear/classical,linear perturbation model,0.974359,0.6749,,5.469767,Source Data Fig. 2 Panel A; mean over test perturbations
+Ahlmann-Eltze 2025,Overall,scGPT,scGPT,0.975375,0.486069,,5.362476,Source Data Fig. 2 Panel A; weighted by available test perturbation rows
+Ahlmann-Eltze 2025,Overall,Simple mean,mean,0.978223,0.575079,,4.96902,Source Data Fig. 2 Panel A; weighted by available test perturbation rows
+Ahlmann-Eltze 2025,Overall,Linear/classical,linear perturbation model,0.979223,0.586463,,4.857398,Source Data Fig. 2 Panel A; weighted by available test perturbation rows
+Csendes 2025,Adamson,scGPT,scGPT,0.990404,0.641038,0.797411,,Supplementary Table 2
+Csendes 2025,Adamson,Simple mean,mean,0.992586,0.711148,0.729265,,Supplementary Table 2
+Csendes 2025,Adamson,Linear/classical,RF_go,0.992508,0.738712,0.741601,,Supplementary Table 2
+Csendes 2025,Norman,scGPT,scGPT,0.987689,0.553838,0.731822,,Supplementary Table 2
+Csendes 2025,Norman,Simple mean,mean,0.986273,0.557266,0.642254,,Supplementary Table 2
+Csendes 2025,Norman,Linear/classical,RF_go,0.987946,0.586124,0.668596,,Supplementary Table 2
+Csendes 2025,Replogle K562,scGPT,scGPT,0.986341,0.326502,0.480966,,Supplementary Table 2
+Csendes 2025,Replogle K562,Simple mean,mean,0.987384,0.372996,0.460378,,Supplementary Table 2
+Csendes 2025,Replogle K562,Linear/classical,RF_go,0.989273,0.48,0.597284,,Supplementary Table 2
+Csendes 2025,Replogle RPE1,scGPT,scGPT,0.97412,0.596358,0.652319,,Supplementary Table 2
+Csendes 2025,Replogle RPE1,Simple mean,mean,0.976092,0.628385,0.639987,,Supplementary Table 2
+Csendes 2025,Replogle RPE1,Linear/classical,RF_go,0.979307,0.64772,0.670487,,Supplementary Table 2
+Csendes 2025,Overall,scGPT,scGPT,0.984638,0.529434,0.665629,,Mean across Supplementary Table 2 datasets
+Csendes 2025,Overall,Simple mean,mean,0.985584,0.567449,0.617971,,Mean across Supplementary Table 2 datasets
+Csendes 2025,Overall,Linear/classical,RF_go,0.987259,0.613139,0.669492,,Mean across Supplementary Table 2 datasets
+This project,GBM radiotherapy average,scGPT,scGPT,0.9910511076450348,0.9426629841327668,0.9795982837677002,,Classical_Models_v5 report_focused_average_metrics.csv
+This project,GBM radiotherapy average,Simple mean,Seen-condition mean,0.9963473081588744,0.9752390086650848,0.9965860247612,,Classical_Models_v5 report_focused_average_metrics.csv
+This project,GBM radiotherapy average,Linear/classical,Pseudobulk RF-PCA,0.9950988292694092,0.965337872505188,0.9947787523269652,,Classical_Models_v5 report_focused_average_metrics.csv

@@ -1,0 +1,6 @@
+metric,value
+eligible_network_nodes,2439.0
+network_edges,21630.0
+louvain_programs,393.0
+atlas_rows,393.0
+cosine_silhouette,-0.038653664290905

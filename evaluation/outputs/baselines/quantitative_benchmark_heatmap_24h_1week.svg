@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="595.44pt" height="633.6pt" viewBox="0 0 595.44 633.6" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-07-30T21:06:58.839870</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 633.6 
+L 595.44 633.6 
+L 595.44 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 139.9284 282.919328 
+L 500.1696 282.919328 
+L 500.1696 91.872 
+L 139.9284 91.872 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p6c1b8a65c8)">
+    <image xlink:href="data:image/png;base64,
+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" id="imageffec26a473" transform="scale(1 -1) translate(0 -191.16)" x="139.9284" y="-91.759328" width="360.36" height="191.16"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(156.913187 75.892531)">Pearson</text>
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(144.467953 83.398719)">(higher is better)</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(207.810731 75.892531)">Pearson Delta</text>
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(204.508153 83.398719)">(higher is better)</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3"/>
+     <g id="text_3">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(262.016322 75.892531)">Pearson DE Delta</text>
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(264.548353 83.398719)">(higher is better)</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4"/>
+     <g id="text_4">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(342.484491 75.892531)">MSE</text>
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(325.953553 83.398719)">(lower is better)</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5"/>
+     <g id="text_5">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(397.857112 75.892531)">AUPRC</text>
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(384.628753 83.398719)">(higher is better)</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6"/>
+     <g id="text_6">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(435.520828 75.8105)">Local Energy-distance</text>
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(446.033953 83.398719)">(lower is better)</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <path d="M 139.9284 282.919328 
+L 139.9284 91.872 
+" clip-path="url(#p6c1b8a65c8)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <defs>
+       <path id="m4b820be92c" d="M 0 0 
+L 0 -2 
+" style="stroke: #000000; stroke-width: 0.6"/>
+      </defs>
+      <g>
+       <use xlink:href="#m4b820be92c" x="139.9284" y="91.872" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_9">
+      <path d="M 199.9686 282.919328 
+L 199.9686 91.872 
+" clip-path="url(#p6c1b8a65c8)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m4b820be92c" x="199.9686" y="91.872" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_11">
+      <path d="M 260.0088 282.919328 
+L 260.0088 91.872 
+" clip-path="url(#p6c1b8a65c8)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m4b820be92c" x="260.0088" y="91.872" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_13">
+      <path d="M 320.049 282.919328 
+L 320.049 91.872 
+" clip-path="url(#p6c1b8a65c8)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m4b820be92c" x="320.049" y="91.872" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_15">
+      <path d="M 380.0892 282.919328 
+L 380.0892 91.872 
+" clip-path="url(#p6c1b8a65c8)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m4b820be92c" x="380.0892" y="91.872" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_17">
+      <path d="M 440.1294 282.919328 
+L 440.1294 91.872 
+" clip-path="url(#p6c1b8a65c8)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m4b820be92c" x="440.1294" y="91.872" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_19">
+      <path d="M 500.1696 282.919328 
+L 500.1696 91.872 
+" clip-path="url(#p6c1b8a65c8)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m4b820be92c" x="500.1696" y="91.872" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_21"/>
+     <g id="text_7">
+      <text style="font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="133.9284" y="113.625123" transform="rotate(-0 133.9284 113.625123)">scGPT</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_22"/>
+     <g id="text_8">
+      <text style="font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="133.9284" y="151.834589" transform="rotate(-0 133.9284 151.834589)">RF-PCA</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_23"/>
+     <g id="text_9">
+      <text style="font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="133.9284" y="190.044055" transform="rotate(-0 133.9284 190.044055)">Seen-condition delta mean</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_24"/>
+     <g id="text_10">
+      <text style="font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="133.9284" y="228.25352" transform="rotate(-0 133.9284 228.25352)">Bilinear ridge</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_25"/>
+     <g id="text_11">
+      <text style="font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="133.9284" y="266.50808" transform="rotate(-0 133.9284 266.50808)">Control mean (no RT effect)</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_26">
+      <path d="M 139.9284 91.872 
+L 500.1696 91.872 
+" clip-path="url(#p6c1b8a65c8)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_27">
+      <path d="M 139.9284 130.081466 
+L 500.1696 130.081466 
+" clip-path="url(#p6c1b8a65c8)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_28">
+      <path d="M 139.9284 168.290931 
+L 500.1696 168.290931 
+" clip-path="url(#p6c1b8a65c8)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_29">
+      <path d="M 139.9284 206.500397 
+L 500.1696 206.500397 
+" clip-path="url(#p6c1b8a65c8)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_30">
+      <path d="M 139.9284 244.709863 
+L 500.1696 244.709863 
+" clip-path="url(#p6c1b8a65c8)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_31">
+      <path d="M 139.9284 282.919328 
+L 500.1696 282.919328 
+" clip-path="url(#p6c1b8a65c8)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+    </g>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="169.9485" y="112.843108" transform="rotate(-0 169.9485 112.843108)">0.993</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="229.9887" y="112.843108" transform="rotate(-0 229.9887 112.843108)">0.950</text>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="290.0289" y="112.843108" transform="rotate(-0 290.0289 112.843108)">0.976</text>
+   </g>
+   <g id="text_15">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="350.0691" y="112.843108" transform="rotate(-0 350.0691 112.843108)">0.0017</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="410.1093" y="112.843108" transform="rotate(-0 410.1093 112.843108)">0.951</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="470.1495" y="112.843108" transform="rotate(-0 470.1495 112.843108)">9.87</text>
+   </g>
+   <g id="text_18">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="169.9485" y="151.052573" transform="rotate(-0 169.9485 151.052573)">0.995</text>
+   </g>
+   <g id="text_19">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="229.9887" y="151.052573" transform="rotate(-0 229.9887 151.052573)">0.960</text>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="290.0289" y="151.052573" transform="rotate(-0 290.0289 151.052573)">0.993</text>
+   </g>
+   <g id="text_21">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="350.0691" y="151.052573" transform="rotate(-0 350.0691 151.052573)">0.0011</text>
+   </g>
+   <g id="text_22">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #20242a" x="410.1093" y="151.052573" transform="rotate(-0 410.1093 151.052573)">0.873</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="470.1495" y="151.052573" transform="rotate(-0 470.1495 151.052573)">11.88</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="169.9485" y="189.262039" transform="rotate(-0 169.9485 189.262039)">0.997</text>
+   </g>
+   <g id="text_25">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="229.9887" y="189.262039" transform="rotate(-0 229.9887 189.262039)">0.977</text>
+   </g>
+   <g id="text_26">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="290.0289" y="189.262039" transform="rotate(-0 290.0289 189.262039)">0.997</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="350.0691" y="189.262039" transform="rotate(-0 350.0691 189.262039)">0.0006</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #20242a" x="410.1093" y="189.262039" transform="rotate(-0 410.1093 189.262039)">0.886</text>
+   </g>
+   <g id="text_29">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="470.1495" y="189.262039" transform="rotate(-0 470.1495 189.262039)">12.25</text>
+   </g>
+   <g id="text_30">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="169.9485" y="227.471505" transform="rotate(-0 169.9485 227.471505)">0.995</text>
+   </g>
+   <g id="text_31">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="229.9887" y="227.471505" transform="rotate(-0 229.9887 227.471505)">0.957</text>
+   </g>
+   <g id="text_32">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="290.0289" y="227.471505" transform="rotate(-0 290.0289 227.471505)">0.992</text>
+   </g>
+   <g id="text_33">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="350.0691" y="227.471505" transform="rotate(-0 350.0691 227.471505)">0.0020</text>
+   </g>
+   <g id="text_34">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #20242a" x="410.1093" y="227.471505" transform="rotate(-0 410.1093 227.471505)">0.794</text>
+   </g>
+   <g id="text_35">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="470.1495" y="227.471505" transform="rotate(-0 470.1495 227.471505)">12.19</text>
+   </g>
+   <g id="text_36">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="169.9485" y="265.68097" transform="rotate(-0 169.9485 265.68097)">0.941</text>
+   </g>
+   <g id="text_37">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="229.9887" y="265.68097" transform="rotate(-0 229.9887 265.68097)">0.020</text>
+   </g>
+   <g id="text_38">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="290.0289" y="265.68097" transform="rotate(-0 290.0289 265.68097)">0.162</text>
+   </g>
+   <g id="text_39">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="350.0691" y="265.68097" transform="rotate(-0 350.0691 265.68097)">0.0140</text>
+   </g>
+   <g id="text_40">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="410.1093" y="265.68097" transform="rotate(-0 410.1093 265.68097)">0.616</text>
+   </g>
+   <g id="text_41">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="470.1495" y="265.68097" transform="rotate(-0 470.1495 265.68097)">12.10</text>
+   </g>
+   <g id="text_42">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="139.9284" y="59.872" transform="rotate(-0 139.9284 59.872)">A. IR-24h</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_3">
+    <path d="M 139.9284 592.416 
+L 500.1696 592.416 
+L 500.1696 401.368672 
+L 139.9284 401.368672 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p8fc6d56a67)">
+    <image xlink:href="data:image/png;base64,
+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" id="image614932dc3f" transform="scale(1 -1) translate(0 -191.16)" x="139.9284" y="-401.256" width="360.36" height="191.16"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_14">
+     <g id="line2d_32"/>
+     <g id="text_43">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(156.913187 385.389203)">Pearson</text>
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(144.467953 392.895391)">(higher is better)</text>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_33"/>
+     <g id="text_44">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(207.810731 385.389203)">Pearson Delta</text>
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(204.508153 392.895391)">(higher is better)</text>
+     </g>
+    </g>
+    <g id="xtick_16">
+     <g id="line2d_34"/>
+     <g id="text_45">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(262.016322 385.389203)">Pearson DE Delta</text>
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(264.548353 392.895391)">(higher is better)</text>
+     </g>
+    </g>
+    <g id="xtick_17">
+     <g id="line2d_35"/>
+     <g id="text_46">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(342.484491 385.389203)">MSE</text>
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(325.953553 392.895391)">(lower is better)</text>
+     </g>
+    </g>
+    <g id="xtick_18">
+     <g id="line2d_36"/>
+     <g id="text_47">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(397.857112 385.389203)">AUPRC</text>
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(384.628753 392.895391)">(higher is better)</text>
+     </g>
+    </g>
+    <g id="xtick_19">
+     <g id="line2d_37"/>
+     <g id="text_48">
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(435.520828 385.307172)">Local Energy-distance</text>
+      <text style="font-size: 7px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif" transform="translate(446.033953 392.895391)">(lower is better)</text>
+     </g>
+    </g>
+    <g id="xtick_20">
+     <g id="line2d_38">
+      <path d="M 139.9284 592.416 
+L 139.9284 401.368672 
+" clip-path="url(#p8fc6d56a67)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_39">
+      <g>
+       <use xlink:href="#m4b820be92c" x="139.9284" y="401.368672" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_21">
+     <g id="line2d_40">
+      <path d="M 199.9686 592.416 
+L 199.9686 401.368672 
+" clip-path="url(#p8fc6d56a67)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_41">
+      <g>
+       <use xlink:href="#m4b820be92c" x="199.9686" y="401.368672" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_22">
+     <g id="line2d_42">
+      <path d="M 260.0088 592.416 
+L 260.0088 401.368672 
+" clip-path="url(#p8fc6d56a67)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_43">
+      <g>
+       <use xlink:href="#m4b820be92c" x="260.0088" y="401.368672" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_23">
+     <g id="line2d_44">
+      <path d="M 320.049 592.416 
+L 320.049 401.368672 
+" clip-path="url(#p8fc6d56a67)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_45">
+      <g>
+       <use xlink:href="#m4b820be92c" x="320.049" y="401.368672" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_24">
+     <g id="line2d_46">
+      <path d="M 380.0892 592.416 
+L 380.0892 401.368672 
+" clip-path="url(#p8fc6d56a67)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_47">
+      <g>
+       <use xlink:href="#m4b820be92c" x="380.0892" y="401.368672" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_25">
+     <g id="line2d_48">
+      <path d="M 440.1294 592.416 
+L 440.1294 401.368672 
+" clip-path="url(#p8fc6d56a67)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_49">
+      <g>
+       <use xlink:href="#m4b820be92c" x="440.1294" y="401.368672" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_26">
+     <g id="line2d_50">
+      <path d="M 500.1696 592.416 
+L 500.1696 401.368672 
+" clip-path="url(#p8fc6d56a67)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_51">
+      <g>
+       <use xlink:href="#m4b820be92c" x="500.1696" y="401.368672" style="stroke: #000000; stroke-width: 0.6"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_12">
+     <g id="line2d_52"/>
+     <g id="text_49">
+      <text style="font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="133.9284" y="423.121795" transform="rotate(-0 133.9284 423.121795)">scGPT</text>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_53"/>
+     <g id="text_50">
+      <text style="font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="133.9284" y="461.331261" transform="rotate(-0 133.9284 461.331261)">RF-PCA</text>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_54"/>
+     <g id="text_51">
+      <text style="font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="133.9284" y="499.540727" transform="rotate(-0 133.9284 499.540727)">Seen-condition delta mean</text>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_55"/>
+     <g id="text_52">
+      <text style="font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="133.9284" y="537.750192" transform="rotate(-0 133.9284 537.750192)">Bilinear ridge</text>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_56"/>
+     <g id="text_53">
+      <text style="font-size: 7.4px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: end" x="133.9284" y="576.004752" transform="rotate(-0 133.9284 576.004752)">Control mean (no RT effect)</text>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_57">
+      <path d="M 139.9284 401.368672 
+L 500.1696 401.368672 
+" clip-path="url(#p8fc6d56a67)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_58">
+      <path d="M 139.9284 439.578137 
+L 500.1696 439.578137 
+" clip-path="url(#p8fc6d56a67)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_19">
+     <g id="line2d_59">
+      <path d="M 139.9284 477.787603 
+L 500.1696 477.787603 
+" clip-path="url(#p8fc6d56a67)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_20">
+     <g id="line2d_60">
+      <path d="M 139.9284 515.997069 
+L 500.1696 515.997069 
+" clip-path="url(#p8fc6d56a67)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_21">
+     <g id="line2d_61">
+      <path d="M 139.9284 554.206534 
+L 500.1696 554.206534 
+" clip-path="url(#p8fc6d56a67)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+    </g>
+    <g id="ytick_22">
+     <g id="line2d_62">
+      <path d="M 139.9284 592.416 
+L 500.1696 592.416 
+" clip-path="url(#p8fc6d56a67)" style="fill: none; stroke: #ffffff; stroke-width: 1.15; stroke-linecap: square"/>
+     </g>
+    </g>
+   </g>
+   <g id="text_54">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="169.9485" y="422.33978" transform="rotate(-0 169.9485 422.33978)">0.989</text>
+   </g>
+   <g id="text_55">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="229.9887" y="422.33978" transform="rotate(-0 229.9887 422.33978)">0.938</text>
+   </g>
+   <g id="text_56">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="290.0289" y="422.33978" transform="rotate(-0 290.0289 422.33978)">0.985</text>
+   </g>
+   <g id="text_57">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="350.0691" y="422.33978" transform="rotate(-0 350.0691 422.33978)">0.0034</text>
+   </g>
+   <g id="text_58">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="410.1093" y="422.33978" transform="rotate(-0 410.1093 422.33978)">0.954</text>
+   </g>
+   <g id="text_59">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="470.1495" y="422.33978" transform="rotate(-0 470.1495 422.33978)">9.62</text>
+   </g>
+   <g id="text_60">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="169.9485" y="460.549245" transform="rotate(-0 169.9485 460.549245)">0.995</text>
+   </g>
+   <g id="text_61">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="229.9887" y="460.549245" transform="rotate(-0 229.9887 460.549245)">0.970</text>
+   </g>
+   <g id="text_62">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="290.0289" y="460.549245" transform="rotate(-0 290.0289 460.549245)">0.996</text>
+   </g>
+   <g id="text_63">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="350.0691" y="460.549245" transform="rotate(-0 350.0691 460.549245)">0.0013</text>
+   </g>
+   <g id="text_64">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #20242a" x="410.1093" y="460.549245" transform="rotate(-0 410.1093 460.549245)">0.878</text>
+   </g>
+   <g id="text_65">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #20242a" x="470.1495" y="460.549245" transform="rotate(-0 470.1495 460.549245)">10.92</text>
+   </g>
+   <g id="text_66">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="169.9485" y="498.758711" transform="rotate(-0 169.9485 498.758711)">0.995</text>
+   </g>
+   <g id="text_67">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="229.9887" y="498.758711" transform="rotate(-0 229.9887 498.758711)">0.974</text>
+   </g>
+   <g id="text_68">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="290.0289" y="498.758711" transform="rotate(-0 290.0289 498.758711)">0.997</text>
+   </g>
+   <g id="text_69">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="350.0691" y="498.758711" transform="rotate(-0 350.0691 498.758711)">0.0012</text>
+   </g>
+   <g id="text_70">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #20242a" x="410.1093" y="498.758711" transform="rotate(-0 410.1093 498.758711)">0.882</text>
+   </g>
+   <g id="text_71">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="470.1495" y="498.758711" transform="rotate(-0 470.1495 498.758711)">11.83</text>
+   </g>
+   <g id="text_72">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="169.9485" y="536.968177" transform="rotate(-0 169.9485 536.968177)">0.989</text>
+   </g>
+   <g id="text_73">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="229.9887" y="536.968177" transform="rotate(-0 229.9887 536.968177)">0.935</text>
+   </g>
+   <g id="text_74">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="290.0289" y="536.968177" transform="rotate(-0 290.0289 536.968177)">0.985</text>
+   </g>
+   <g id="text_75">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="350.0691" y="536.968177" transform="rotate(-0 350.0691 536.968177)">0.0044</text>
+   </g>
+   <g id="text_76">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #20242a" x="410.1093" y="536.968177" transform="rotate(-0 410.1093 536.968177)">0.767</text>
+   </g>
+   <g id="text_77">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="470.1495" y="536.968177" transform="rotate(-0 470.1495 536.968177)">11.80</text>
+   </g>
+   <g id="text_78">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="169.9485" y="575.177642" transform="rotate(-0 169.9485 575.177642)">0.910</text>
+   </g>
+   <g id="text_79">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="229.9887" y="575.177642" transform="rotate(-0 229.9887 575.177642)">-0.081</text>
+   </g>
+   <g id="text_80">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="290.0289" y="575.177642" transform="rotate(-0 290.0289 575.177642)">-0.206</text>
+   </g>
+   <g id="text_81">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="350.0691" y="575.177642" transform="rotate(-0 350.0691 575.177642)">0.0237</text>
+   </g>
+   <g id="text_82">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="410.1093" y="575.177642" transform="rotate(-0 410.1093 575.177642)">0.582</text>
+   </g>
+   <g id="text_83">
+    <text style="font-weight: 600; font-size: 7.2px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #20242a" x="470.1495" y="575.177642" transform="rotate(-0 470.1495 575.177642)">11.04</text>
+   </g>
+   <g id="text_84">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="139.9284" y="369.368672" transform="rotate(-0 139.9284 369.368672)">B. IR-1week</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_4">
+    <path d="M 541.8504 525.888 
+L 551.37744 525.888 
+L 551.37744 133.056 
+L 541.8504 133.056 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAABsAAARDCAYAAACZRlrcAAAEBklEQVR4nO3c0Y3cMBBEQWmPsThzh7mSI7j5JPyI6gQK0LBJSnv2/ff6816b8tkFnY2tz0bu3Md4LmaB9DAz62FmBhuzPvc+7NzHqNSwMWbWw8wMNsYC6WFm1sPMrIeZGWzMuu99r57nPkalho0xsx5mZrAxFkgPM7MeZmY9zMxgYyyQHuZ36h6mZz3MzGBjLJAetj4bT89zH+Pmn0d+zAz2e9at1DXMzHqYjbiH6RlsjFL3MG8xPcxG3MPsjbAx6974DfDcx6jUsDEOzx5mZrAxNuIe5s2zh9mIe5i9ETZGqXuYUvcwX3hgY2zEPWx9bMQ1TM96mAsPbIxS97B1KXUN07Metq4fb56w37Mupa5hbsQ9TM96mEsqbIwbcQ9zI+5hetbDHJ6wMRZID7MR9zA9g41Zl79OqmE+AfYwnwB7mMMTNsaNuIf5BNjDbMQ9zN4IG6PUPcxbTA/ztaCH+SoHG2Mj7mFK3cPMrIfZG2FjlLqHmVkPsxHDxih1DzOzHmYj7mF6BhtjgfSwdd824himZz3MzGBj3Ih7mFL3MD3rYXoGG2OB9DAbcQ/Tsx5mZrAxNuIeptQ9bF23mcF+jwXSw2zEPUzPepiZwcZYID3M4dnD9KyHmRlsjAXSw8ysh7nw9LB13z/bsHMf47mYjbiHmVkPM7Me5sIDG6PUPczMepiZ9TCHJ2yMUvcwM+thZgYbY4H0sPXu+1cPBz/GzTN7n23YuY9x78weM4MNWe9lgcQwpe5hetbD9Aw2xo24h63HRlzD9KyHOTxhY9yIe5hS97D1Xt9t2LmPUc9g/w/mRtzDvHn2MD2DjXFS9zBvnj1Mz3qYnsHGKHUPcyPuYd48e5iewcas5323Yec+Rhce2Bg962HrucwM9nuUuoc5PHuYnvUwM4ONsRH3MKXuYd5iYGNsxD3MRtzDzKyHmRlsjMOzhyl1DzOzHuYPhmBjlLqHmVkPM7Me5sUCNkape5iZ9TAz62Hru29kBz/GczGl7mFK3cPWY2awIetrI65hSt3DHJ49TM9gYxyePWw9+z7rH/wYHZ6wMQ5P2BiHZw9T6h7m8Oxhfh6BjVHqHubw7GF61sPWs7Fo5z7GczGl7mEOzx6mZz3MmydsjFL3MJ/ae9j6+p0aNkSpe9j6+jRRw/Sshzk8YWOUuoc5PHuYnvUwhydsjFL3MDPrYS48PczPI7AxSt3DHJ49TM96mMMTNkape5jDs4eZGWyMb8Q9TKl7mAtPD9Mz2Bj/BVUPW6+NuIaZWQ8zM9iY9bpd1TCl7mFm1sPMDDbGAulhZtbDzKyHmRlsjAXSw3wt6GF6BhtjgfQwM+thZtbDzAw2xgLpYWbWw7x59jA9g42xQHqYmfUwM+th/wCA92Ux5z8P9gAAAABJRU5ErkJggg==" id="image44ccf0efc2" transform="scale(1 -1) translate(0 -392.76)" x="541.8" y="-133.2" width="9.72" height="392.76"/>
+   <g id="matplotlib.axis_5"/>
+   <g id="matplotlib.axis_6">
+    <g id="ytick_23">
+     <g id="line2d_63">
+      <defs>
+       <path id="me09c95d75d" d="M 0 0 
+L 2 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#me09c95d75d" x="551.37744" y="525.888" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_85">
+      <text style="font-size: 6.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="556.87744" y="528.321656" transform="rotate(-0 556.87744 528.321656)">Weaker</text>
+     </g>
+    </g>
+    <g id="ytick_24">
+     <g id="line2d_64">
+      <g>
+       <use xlink:href="#me09c95d75d" x="551.37744" y="329.472" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_86">
+      <text style="font-size: 6.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="556.87744" y="331.905656" transform="rotate(-0 556.87744 331.905656)">Intermediate</text>
+     </g>
+    </g>
+    <g id="ytick_25">
+     <g id="line2d_65">
+      <g>
+       <use xlink:href="#me09c95d75d" x="551.37744" y="133.056" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_87">
+      <text style="font-size: 6.8px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: start" x="556.87744" y="135.531094" transform="rotate(-0 556.87744 135.531094)">Stronger</text>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_1"/>
+   <g id="patch_5">
+    <path d="M 541.8504 525.888 
+L 546.61392 525.888 
+L 551.37744 525.888 
+L 551.37744 133.056 
+L 546.61392 133.056 
+L 541.8504 133.056 
+L 541.8504 525.888 
+z
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+  <g id="text_88">
+   <text style="font-weight: 700; font-size: 13px; font-family: 'Arial', 'Helvetica', 'DejaVu Sans', sans-serif; text-anchor: middle" x="297.72" y="18.967594" transform="rotate(-0 297.72 18.967594)">Quantitative benchmark metrics across radiotherapy timepoints</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p6c1b8a65c8">
+   <rect x="139.9284" y="91.872" width="360.2412" height="191.047328"/>
+  </clipPath>
+  <clipPath id="p8fc6d56a67">
+   <rect x="139.9284" y="401.368672" width="360.2412" height="191.047328"/>
+  </clipPath>
+ </defs>
+</svg>

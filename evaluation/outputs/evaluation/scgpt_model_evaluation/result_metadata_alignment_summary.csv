@@ -1,0 +1,11 @@
+,scope,split,condition,n_result_rows,n_matched,n_condition_matches,duplicate_source_rows,missing_result_rows
+0,overall,all,all,19037,19037,19037,0,0
+1,split_condition,test,IR-1week,187,187,187,0,0
+2,split_condition,test,IR-24h,453,453,453,0,0
+3,split_condition,test,ctrl,1264,1264,1264,0,0
+4,split_condition,train,IR-1week,1493,1493,1493,0,0
+5,split_condition,train,IR-24h,3629,3629,3629,0,0
+6,split_condition,train,ctrl,10107,10107,10107,0,0
+7,split_condition,val,IR-1week,187,187,187,0,0
+8,split_condition,val,IR-24h,454,454,454,0,0
+9,split_condition,val,ctrl,1263,1263,1263,0,0

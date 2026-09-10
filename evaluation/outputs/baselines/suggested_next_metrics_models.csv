@@ -1,0 +1,7 @@
+category,suggestion,why_it_helps,priority
+Metric,RMSE or L2 error on all genes and on highly variable / highly expressed genes,Ahlmann-style benchmarks use error/L2-style metrics; adding RMSE gives a simple lower-is-better comparator alongside Pearson.,High
+Metric,Variance-compression ratio for predicted vs observed deltas,Checks whether a model predicts the correct direction but compresses the magnitude of radiation-induced response.,Medium
+Metric,"Pathway-level delta agreement for DNA damage, oxidative stress, hypoxia, cell-cycle and immune pathways",Adds GBM/radiotherapy biological relevance beyond gene-wise statistics.,Medium
+Model,PCA-ridge / PCA-linear baseline,"Bendidi et al. found PCA-style representations competitive with transcriptomic foundation models; this is a strong, explainable comparator.",High
+Model,Control-matched ridge baseline using sampled control cells plus condition/timepoint encoding,"Closer to PerturBench-style counterfactual prediction than condition-only lookup models, because it predicts perturbed states from control-cell states.",High
+Model,Random Forest or gradient boosting with biological/QC/cell-state features,"Csendes et al. found biologically informed basic ML competitive; useful if metadata contains subtype, sample, QC, PCA or cell-state covariates.",Medium

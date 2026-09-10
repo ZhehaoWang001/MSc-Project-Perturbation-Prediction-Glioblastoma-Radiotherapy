@@ -1,0 +1,8 @@
+condition_canonical,survival_display,cells
+IR_1week,Unclassified (original NA),1867
+IR_24h,Unclassified (original NA),1881
+IR_24h,dying,1601
+IR_24h,surviving,1054
+ctrl,Unclassified (original NA),6868
+ctrl,dying,2723
+ctrl,surviving,3043

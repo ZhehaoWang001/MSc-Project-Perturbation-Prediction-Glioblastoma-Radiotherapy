@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1040" viewBox="0 0 1200 1040">
+<rect x="0.0" y="0.0" width="1200.0" height="1040.0" fill="#FFFFFF" stroke="none" />
+<text x="70.0" y="55.0" font-family="Helvetica, Arial, sans-serif" font-size="26" font-weight="700" fill="#222222" text-anchor="start">Formatted AnnData dataset composition</text>
+<text x="70.0" y="83.0" font-family="Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#555555" text-anchor="start">Composition extracted directly from data/adamson/perturb_processed.h5ad.</text>
+<text x="80.0" y="114.0" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="start">A</text>
+<text x="110.0" y="114.0" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="start">Radiotherapy condition balance</text>
+<line x1="160.0" y1="440.0" x2="1080.0" y2="440.0" stroke="#DDDDDD" stroke-width="1.0" />
+<text x="150.0" y="445.0" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#555555" text-anchor="end">0</text>
+<line x1="160.0" y1="295.0" x2="1080.0" y2="295.0" stroke="#DDDDDD" stroke-width="1.0" />
+<text x="150.0" y="300.0" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#555555" text-anchor="end">7,000</text>
+<line x1="160.0" y1="150.0" x2="1080.0" y2="150.0" stroke="#DDDDDD" stroke-width="1.0" />
+<text x="150.0" y="155.0" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#555555" text-anchor="end">14,000</text>
+<line x1="160.0" y1="150.0" x2="160.0" y2="440.0" stroke="#333333" stroke-width="1.0" />
+<line x1="160.0" y1="440.0" x2="1080.0" y2="440.0" stroke="#333333" stroke-width="1.0" />
+<rect x="202.0" y="178.3" width="250.7" height="261.7" fill="#355C7D" stroke="none" />
+<text x="327.3" y="464.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#222222" text-anchor="middle">ctrl</text>
+<text x="327.3" y="152.3" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#222222" text-anchor="middle">12,634</text>
+<text x="327.3" y="168.3" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#555555" text-anchor="middle">66.4%</text>
+<rect x="494.7" y="346.0" width="250.7" height="94.0" fill="#E76F51" stroke="none" />
+<text x="620.0" y="464.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#222222" text-anchor="middle">IR-24h</text>
+<text x="620.0" y="320.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#222222" text-anchor="middle">4,536</text>
+<text x="620.0" y="336.0" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#555555" text-anchor="middle">23.8%</text>
+<rect x="787.3" y="401.3" width="250.7" height="38.7" fill="#2A9D8F" stroke="none" />
+<text x="912.7" y="464.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#222222" text-anchor="middle">IR-1week</text>
+<text x="912.7" y="375.3" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#222222" text-anchor="middle">1,867</text>
+<text x="912.7" y="391.3" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#555555" text-anchor="middle">9.8%</text>
+<text x="105.0" y="295.0" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#222222" text-anchor="middle" transform="rotate(-90 105 295.0)">Cells</text>
+<text x="80.0" y="564.0" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="start">B</text>
+<text x="110.0" y="564.0" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#222222" text-anchor="start">Sample-level cell counts</text>
+<line x1="160.0" y1="865.0" x2="1080.0" y2="865.0" stroke="#DDDDDD" stroke-width="1.0" />
+<text x="150.0" y="870.0" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#555555" text-anchor="end">0</text>
+<line x1="160.0" y1="732.5" x2="1080.0" y2="732.5" stroke="#DDDDDD" stroke-width="1.0" />
+<text x="150.0" y="737.5" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#555555" text-anchor="end">4,000</text>
+<line x1="160.0" y1="600.0" x2="1080.0" y2="600.0" stroke="#DDDDDD" stroke-width="1.0" />
+<text x="150.0" y="605.0" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#555555" text-anchor="end">8,000</text>
+<line x1="160.0" y1="600.0" x2="160.0" y2="865.0" stroke="#333333" stroke-width="1.0" />
+<line x1="160.0" y1="865.0" x2="1080.0" y2="865.0" stroke="#333333" stroke-width="1.0" />
+<rect x="160.0" y="853.2" width="69.3" height="11.8" fill="#2A9D8F" stroke="none" />
+<text x="194.7" y="883.0" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#222222" text-anchor="end" transform="rotate(-45 194.66666666666666 883)">IR-1week_1</text>
+<rect x="237.3" y="860.8" width="69.3" height="4.2" fill="#2A9D8F" stroke="none" />
+<text x="272.0" y="883.0" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#222222" text-anchor="end" transform="rotate(-45 272.0 883)">IR-1week_2</text>
+<rect x="314.7" y="840.9" width="69.3" height="24.1" fill="#2A9D8F" stroke="none" />
+<text x="349.3" y="883.0" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#222222" text-anchor="end" transform="rotate(-45 349.3333333333333 883)">IR-1week_3</text>
+<rect x="392.0" y="843.3" width="69.3" height="21.7" fill="#2A9D8F" stroke="none" />
+<text x="426.7" y="883.0" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#222222" text-anchor="end" transform="rotate(-45 426.6666666666667 883)">IR-1week_4</text>
+<rect x="469.3" y="822.0" width="69.3" height="43.0" fill="#E76F51" stroke="none" />
+<text x="504.0" y="883.0" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#222222" text-anchor="end" transform="rotate(-45 504.0 883)">IR-24h_1</text>
+<rect x="546.7" y="848.3" width="69.3" height="16.7" fill="#E76F51" stroke="none" />
+<text x="581.3" y="883.0" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#222222" text-anchor="end" transform="rotate(-45 581.3333333333333 883)">IR-24h_2</text>
+<rect x="624.0" y="839.0" width="69.3" height="26.0" fill="#E76F51" stroke="none" />
+<text x="658.7" y="883.0" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#222222" text-anchor="end" transform="rotate(-45 658.6666666666666 883)">IR-24h_3</text>
+<rect x="701.3" y="800.4" width="69.3" height="64.6" fill="#E76F51" stroke="none" />
+<text x="736.0" y="883.0" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#222222" text-anchor="end" transform="rotate(-45 735.9999999999999 883)">IR-24h_4</text>
+<rect x="778.7" y="769.3" width="69.3" height="95.7" fill="#355C7D" stroke="none" />
+<text x="813.3" y="883.0" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#222222" text-anchor="end" transform="rotate(-45 813.3333333333333 883)">ctrl_1</text>
+<rect x="856.0" y="818.4" width="69.3" height="46.6" fill="#355C7D" stroke="none" />
+<text x="890.7" y="883.0" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#222222" text-anchor="end" transform="rotate(-45 890.6666666666666 883)">ctrl_2</text>
+<rect x="933.3" y="808.5" width="69.3" height="56.5" fill="#355C7D" stroke="none" />
+<text x="968.0" y="883.0" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#222222" text-anchor="end" transform="rotate(-45 967.9999999999999 883)">ctrl_3</text>
+<rect x="1010.7" y="645.4" width="69.3" height="219.6" fill="#355C7D" stroke="none" />
+<text x="1045.3" y="883.0" font-family="Helvetica, Arial, sans-serif" font-size="11" font-weight="400" fill="#222222" text-anchor="end" transform="rotate(-45 1045.3333333333333 883)">ctrl_4</text>
+<text x="105.0" y="732.5" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#222222" text-anchor="middle" transform="rotate(-90 105 732.5)">Cells</text>
+<rect x="160.0" y="928.0" width="14.0" height="14.0" fill="#2A9D8F" stroke="none" />
+<text x="182.0" y="940.0" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#222222" text-anchor="start">IR-1week</text>
+<rect x="325.0" y="928.0" width="14.0" height="14.0" fill="#E76F51" stroke="none" />
+<text x="347.0" y="940.0" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#222222" text-anchor="start">IR-24h</text>
+<rect x="490.0" y="928.0" width="14.0" height="14.0" fill="#355C7D" stroke="none" />
+<text x="512.0" y="940.0" font-family="Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#222222" text-anchor="start">ctrl</text>
+</svg>

@@ -1,0 +1,4 @@
+split,cells,percent_total,expression_features,samples,batches
+train,15229,79.99684824289541,2467,12,4
+val,1904,10.001575878552293,2467,12,4
+test,1904,10.001575878552293,2467,12,4
