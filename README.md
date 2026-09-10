@@ -26,9 +26,6 @@ checkpoint downloads and provenance).
 4. Supply authorized study data locally, then configure paths in the selected
    training or analysis workflow.
 
-[scGenePT model selection](scgenept/README.md) explains NCBI, UniProt, GO and BioAll
-options. [Attention instructions](attention_extraction/README.md) describe the
-shared launcher and the model-specific inputs.
 
 ## Selected outputs
 
