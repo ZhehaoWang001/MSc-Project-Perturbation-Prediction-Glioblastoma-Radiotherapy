@@ -1,4 +1,4 @@
-# Myriad environments
+# UCL Myriad environments
 
 Use **separate environments for scGPT and scGenePT**. These records preserve the
 package versions captured from the working Myriad installations. Start with the
@@ -76,6 +76,49 @@ package exports were taken.
 | Python module | `python/3.9.10` | `python/miniconda3/24.3.0-0` |
 | CUDA module | `cuda/11.8.0/gnu-10.2.0` | `cuda/11.8.0/gnu-10.2.0` |
 | Activation | `source ~/Scratch/scgpt_tutorial_folder/scgpt_venv/bin/activate` | `conda activate scgenept_env` |
+
+The submitted jobs perform these steps themselves. For lightweight environment
+inspection, the same activation sequences are:
+
+```bash
+# scGPT
+module purge
+module load compilers/gnu/4.9.2
+module load python/3.9.10
+module load cuda/11.8.0/gnu-10.2.0
+source "$HOME/Scratch/scgpt_tutorial_folder/scgpt_venv/bin/activate"
+python --version
+```
+
+In a separate shell, or after leaving the scGPT environment:
+
+```bash
+# scGenePT
+module purge
+module load compilers/gnu/10.2.0
+module load cuda/11.8.0/gnu-10.2.0
+module load python/miniconda3/24.3.0-0
+source "$UCL_CONDA_PATH/etc/profile.d/conda.sh"
+conda activate scgenept_env
+python --version
+```
+
+These are the recorded module names. Check current availability on Myriad before
+recreating an environment; no package or module versions were upgraded here.
+
+## Embedding-analysis environment coverage
+
+The project ran on Myriad, but a separately validated environment export for the
+full embedding workflow is not included. The two lists above record the captured
+model environments and should not be treated as complete embedding-install recipes.
+The full analysis imports GSEApy and uses NetworkX's `louvain_communities` API.
+The captured scGPT list pins NetworkX 2.6.3, while that API was added in
+[NetworkX 2.7](https://networkx.org/documentation/stable/release/release_2.7.html).
+The scGenePT list has a newer NetworkX version but does not include GSEApy.
+Verify the required libraries in the intended analysis environment before
+submission. The published package lists remain unchanged; follow the
+[embedding guide](../embedding_analysis/README_full_embedding_GRN_code.md) for
+the analysis inputs and run settings.
 
 ## Captured dependency checks
 

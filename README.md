@@ -4,6 +4,10 @@ Research code for predicting radiotherapy-associated transcriptional responses
 in glioblastoma. The repository contains four workflows: **scGPT training**,
 **scGenePT training**, **attention extraction** and **embedding analysis**.
 
+The project scripts were run on the **UCL Myriad cluster**. The supplied batch
+jobs use Sun Grid Engine (`qsub`), UCL software modules and the recorded Python
+environments. Start with the [Myriad setup guide](docs/SETUP.md).
+
 ## Project structure
 
 | Folder | Contents |
@@ -19,13 +23,13 @@ checkpoint downloads and provenance).
 
 ## Getting started
 
-1. Read [setup instructions](docs/SETUP.md).
-2. Obtain the official [scGPT](https://github.com/bowang-lab/scGPT) and
-   [scGenePT](https://github.com/czi-ai/scGenePT) dependencies and model assets.
-3. Restore the required checkpoint files using [checkpoint information](docs/CHECKPOINTS.md).
-4. Supply authorized study data locally, then configure paths in the selected
-   training or analysis workflow.
-
+1. Follow [Myriad setup](docs/SETUP.md) to place the code in the expected working
+   directories and select the corresponding [environment](environments/README.md).
+2. Obtain the official scGPT/scGenePT software and model assets described there.
+3. For checkpoint analyses, restore the weights from the
+   [checkpoint release](docs/CHECKPOINTS.md) and supply the required study inputs.
+4. Submit the selected training or attention job with `qsub`. The embedding
+   guides explain the analysis run order and path settings for Myriad.
 
 ## Selected outputs
 
@@ -45,14 +49,18 @@ similarity networks and attention summaries are descriptive model analyses.
 
 Raw and formatted study datasets, cell metadata and prediction arrays are
 excluded. Notebook execution outputs are cleared. See [data availability](DATA_AVAILABILITY.md).
-The package records match the inspected Myriad environments; recreating those
-environments and running models on a fresh system have not been tested here.
+The package records describe the inspected Myriad model environments. A fresh
+installation has not been tested during repository preparation; the
+[environment guide](environments/README.md) explains their scope and the
+additional embedding-analysis requirements.
 
 Training and model-specific analysis implementations are preserved from the
 selected source files. The common attention launcher only selects an implementation.
 See [provenance](docs/PROVENANCE.md) for checkpoint and software-version context.
 
 ## Credits and upstream dependencies
+
+Computational work used the [UCL Myriad research computing service](https://www.rc.ucl.ac.uk/docs/Clusters/Myriad/).
 
 This repository contains project-specific training and analysis scripts that use
 the official [scGPT](https://github.com/bowang-lab/scGPT) and

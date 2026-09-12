@@ -15,6 +15,15 @@ Two saved runs are included:
 
 The model weights are stored as release assets. Configuration, gene-name and selected result files are in the corresponding repository folders. [checkpoint_assets.json](checkpoint_assets.json) records exact destination paths, byte counts and SHA-256 hashes; verify downloaded files against this manifest before use.
 
+The restore paths above describe the GitHub checkout. For Myriad, pass those
+absolute paths to the attention launcher or stage the matching files in the
+analysis layout described in [setup](SETUP.md). These are project fine-tuned
+weights; the training jobs use separate upstream pretrained assets by default.
+
+Use the repository's `main` branch for the current code and guides. The automatic
+source archives attached to `v0.1.0` reflect that release's original code snapshot;
+download the named `.pt` assets for the checkpoint files.
+
 For example, `shasum -a 256 scgpt_best_model.pt` should match the scGPT hash in the manifest. Rename downloaded assets to their listed destination filenames when restoring the checkpoint folders.
 
 The full-data scGenePT model and its validation-selected predecessor have different purposes. Preserve that distinction when reporting performance. Private expression splits and metadata required for analysis are not included with either checkpoint.

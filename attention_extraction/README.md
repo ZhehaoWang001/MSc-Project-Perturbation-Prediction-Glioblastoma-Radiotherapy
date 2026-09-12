@@ -1,6 +1,6 @@
 # Attention extraction
 
-Use `run_attention.py` as the single entry point for either checkpoint family.
+Use [run_attention.py](run_attention.py) as the single entry point for either checkpoint family.
 It selects a preserved model-specific backend and forwards all remaining
 arguments unchanged. Both backend sources are copied byte-for-byte from the
 reviewed project sources: Myriad's `Tutorial_Attention_GRN_full.py` for scGPT,
@@ -8,12 +8,22 @@ and `Tutorial_Attention_GRN_scGenePT_BioAll.py` for scGenePT. Their model loadin
 preprocessing, sampling, attention statistic and plotting code are unchanged.
 The launcher does not make the two implementations identical.
 
+The original attention sources were run from `~/Scratch/grn_scgpt` on UCL
+Myriad. The shared launcher and [submission job](submit_attention.sh) provide
+the GitHub interface to those preserved sources. See [Myriad setup](../docs/SETUP.md)
+for the cluster layout and [checkpoint restoration](../docs/CHECKPOINTS.md) for
+the published weights.
+
 `--help` and `--dry-run` use only the Python standard library. Normal execution
 uses the active Python interpreter in a subprocess and keeps the caller's
 working directory. Choose the matching captured Myriad environment. This
 packaging change was checked with Python syntax parsing, shell syntax checking,
 and launcher help/dry-run calls; no checkpoint was loaded and no model or job was
 run as part of publication preparation.
+
+Run the Python examples below inside a suitable Myriad compute allocation.
+For batch execution, use the `qsub` instructions below. Replace every `/path/to/`
+placeholder with an absolute path available on Myriad.
 
 ## scGPT checkpoint
 
@@ -83,8 +93,8 @@ qsub attention_extraction/submit_attention.sh scgpt \
   --output-base /path/to/private/results/scgpt_attention
 ```
 
-The job's shared resource requests are six hours, one GPU, 16 GB memory and
-15 GB temporary storage; adjust them for the intended run. Its environment
+The job's shared resource requests are six hours, one GPU, `mem=16G` and
+`tmpfs=15G`; Myriad's `mem` resource is per CPU slot, not GPU memory. Its environment
 activation follows the reviewed scGPT/scGenePT submission environments. Override
 `SCGPT_VENV` (environment directory), `SCGENEPT_ENV` (Conda name/path), or
 `ATTENTION_ENTRY` (absolute launcher path) with `qsub -v NAME=value,...` when

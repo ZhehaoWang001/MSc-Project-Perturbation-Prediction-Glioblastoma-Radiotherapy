@@ -1,13 +1,18 @@
 # Full embedding gene-association analysis code
 
-`Embedding_GRN_Perturbation_Pathway_Survival_full.py` is a direct export of
-all 35 code cells from the authoritative PyCharm notebook. No project-local
-analysis module is imported. The export preserves every code cell exactly and
-adds the notebook's explanatory Markdown as comments.
+[Embedding_GRN_Perturbation_Pathway_Survival_full.py](Embedding_GRN_Perturbation_Pathway_Survival_full.py)
+is a direct export of all 35 code cells from the
+[authoritative notebook](Embedding_GRN_Perturbation_Pathway_Survival.ipynb).
+The export preserves the code cells and adds the notebook's explanatory
+Markdown as comments. The project scripts were run on UCL Myriad.
 
-## Authoritative notebook
+## Preserved development paths
 
 `/Users/zhehaowang/PycharmProjects/scgpt_test/Embedding_GRN_save/Embedding_GRN_Perturbation_Pathway_Survival.ipynb`
+
+This is the original notebook source location. The published code retains
+absolute development-directory defaults; it does not require PyCharm. For a
+Myriad run, configure those paths in a separate working copy as described below.
 
 ## Analysis covered
 
@@ -32,24 +37,65 @@ adds the notebook's explanatory Markdown as comments.
     full embedding-neighbour graph and focused interferon/cell-cycle networks.
 12. Audit `survival_classification` and save all transparent tables.
 
-## Running the code
+## Inputs and path settings on Myriad
 
-Use the `scgpt_env` interpreter in PyCharm. The notebook is the recommended
-execution format because results and explanations remain grouped by section.
-The Python export can also be run as one script:
+In the first code cell, review `PROJECT_DIR`, `OUTPUT_DIR`, `MSIGDB_DIR` and the
+instantiated `LouvainAnalysisConfig`. These are Python settings, not command-line
+options. Changing only the shell working directory or exporting `PROJECT_DIR`
+will not redirect the embedded absolute paths.
 
-```bash
-/opt/anaconda3/envs/scgpt_env/bin/python Embedding_GRN_Perturbation_Pathway_Survival_full.py
+With the original relative settings, the configured project directory needs:
+
+```text
+<configured PROJECT_DIR>/
+  rna_malignant_counts.h5ad
+  mouse2human.pkl
+  dev_perturb_adamson-Jun28-15-05/
+    best_model.pt
+    gene_names.json
+  save/scGPT_human/
+    args.json
+    vocab.json
+  Embedding_GRN_save/resources/msigdb_2026_1/
+    h.all.v2026.1.Hs.symbols.gmt
+    c2.cp.reactome.v2026.1.Hs.symbols.gmt
 ```
 
-The configured inputs and output paths are absolute. Running the complete code
-again writes files to:
+Restore the scGPT weights using [checkpoint information](../docs/CHECKPOINTS.md),
+then stage them with the matching gene-name file at the configured run path.
+Obtain upstream configuration/vocabulary files and GMT collections separately.
+The H5AD and mouse-to-human mapping must be supplied through authorized access.
+Choose an output directory for the new run; existing files with the same names
+can be replaced by a rerun.
 
-`/Users/zhehaowang/PycharmProjects/scgpt_test/Embedding_GRN_save/perturbation_pathway_outputs`
+## Execution on Myriad
+
+Use an analysis environment with the required libraries, including GSEApy and
+NetworkX with `louvain_communities`; see
+[environment coverage](../environments/README.md#embedding-analysis-environment-coverage).
+The supplied model environment records are not a separately validated export
+of the full embedding runtime.
+
+Inside a Myriad compute allocation, set the cache paths before starting Python.
+The following uses the allocation's temporary storage instead of the preserved
+macOS `/private/tmp` defaults:
+
+```bash
+export MPLCONFIGDIR="$TMPDIR/msc_embedding_mpl"
+export NUMBA_CACHE_DIR="$TMPDIR/msc_embedding_numba"
+mkdir -p "$MPLCONFIGDIR" "$NUMBA_CACHE_DIR"
+python /path/to/configured/run/Embedding_GRN_Perturbation_Pathway_Survival_full.py
+```
+
+Replace the example script path with the configured working copy. A dedicated
+embedding batch script is not included; use the intended Myriad analysis job or
+compute allocation. The preserved counterfactual inference setting is `cpu`;
+allocating a GPU alone does not change that Python configuration. For notebook
+execution, select the matching environment as the kernel and run cells in order.
 
 The checkpoint inference and Louvain tuning are computationally heavier than
-plotting from the saved tables. Running the script may replace files with the
-same names in that output folder.
+replotting saved tables. The gene and feature counts listed above describe the
+supplied analysis, rather than fixed guarantees for another dataset.
 
 ## Interpretation
 

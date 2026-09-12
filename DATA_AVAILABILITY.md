@@ -9,4 +9,9 @@ Selected figures, aggregate metrics, pathway statistics, gene-network summaries,
 code and environment records are included. Notebook outputs and attachments have
 been removed. Running the complete workflow requires authorized local inputs.
 Model checkpoint metadata is included; weight availability is documented in
-`docs/CHECKPOINTS.md`. Checkpoint weights do not substitute for the study inputs.
+[checkpoint information](docs/CHECKPOINTS.md). Checkpoint weights do not substitute
+for the study inputs.
+
+The [Reactome-only companion](embedding_analysis/reactome_only/README.md) can be
+rerun from four included aggregate tables and the external Reactome gene-set
+file. That companion does not load the restricted expression data or a checkpoint.
